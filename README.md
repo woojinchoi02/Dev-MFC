@@ -2,7 +2,7 @@
 -------
 ## Dev-CPP 사각형 큐브 대신 다른 도형 넣기
 Dev-CPP를 이용하여 사각형 큐브을 삼각뿔로 변형하고 회전시켰습니다.
-![과제 큐브](https://github.com/woojinchoi02/Graphics-dev-mfc/assets/162526228/91d9239c-73ef-4591-b3f6-4f7b086b7a60)
+![과제1](https://github.com/woojinchoi02/Graphics-dev-mfc/assets/162526228/bedc2efe-3655-4d46-ae99-364f1e68ccae)
 >코드는 아래 있습니다.
 
 ## MFC에서 사각형, 타원, 글씨에 다른 도형 추가하기
