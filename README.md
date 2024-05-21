@@ -10,7 +10,7 @@ MFC를 이용하여 안동하면 떠오르는 닭을 만들어보았습니다.
 ![과제2](https://github.com/woojinchoi02/Graphics-dev-mfc/assets/162526228/55b4ea74-aba5-4564-8694-a41d3784fd13)
 >>코드는 아래 있습니다.
 
-
+------
 ### Dev코드
       #include <windows.h>
       #include <gl/gl.h>
